@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😎, I'm Zay Maung Maung Myint</h1>
 <h3 align="center">A passionate backend developer from Myanmar.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaymmm&label=Profile%20views&color=0e75b6&style=flat" alt="zaymmm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaymaungmaungmyint-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zaymaungmaungmyint-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaymmm" alt="zaymmm" /></a> </p>
 
@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Global Project**
 
-- 👨‍💻 All of my projects are available at [https://zaymaungmaungmyint-dev.github.io/]([https://zaymmm.github.io/](https://zaymaungmaungmyint-dev.github.io/))
+- 👨‍💻 All of my projects are available at [https://zaymaungmaungmyint-dev.github.io/](https://zaymaungmaungmyint-dev.github.io/))
 
 - 💬 Ask me about **Java, Spring, MySQL, OracelSQL, HTML, CSS, Javascript, JQuery**
 
 - 📫 How to reach me **zaymaungmaungmyint.info@gmail.com**
 
-- 📄 Know about my experiences [https://zaymaungmaungmyint-dev.github.io/]([https://zaymmm.github.io/](https://zaymaungmaungmyint-dev.github.io/))
+- 📄 Know about my experiences [https://zaymaungmaungmyint-dev.github.io/](https://zaymaungmaungmyint-dev.github.io/))
 
 - ⚡ Fun fact **Big Mouth, Man Of Action**
 
