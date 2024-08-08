@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Global Project**
 
-- 👨‍💻 All of my projects are available at [https://zaymgmgmyint.github.io/]((https://zaymgmgmyint.github.io/))
+- 👨‍💻 All of my projects are available at [https://zaymgmgmyint.github.io/](https://zaymgmgmyint.github.io/)
 
 - 💬 Ask me about **Java, Spring, MySQL, OracelSQL, HTML, CSS, Javascript, JQuery**
 
 - 📫 How to reach me **zaymaungmaungmyint.info@gmail.com**
 
-- 📄 Know about my experiences [https://zaymgmgmyint.github.io/]((https://zaymgmgmyint.github.io/))
+- 📄 Know about my experiences [https://zaymgmgmyint.github.io/](https://zaymgmgmyint.github.io/)
 
 - ⚡ Fun fact **Big Mouth, Man Of Action**
 
