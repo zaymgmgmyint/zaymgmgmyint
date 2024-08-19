@@ -25,6 +25,7 @@
 
 <br/>
 
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://app.daily.dev/zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/zay" height="30" width="40" /></a>
@@ -34,6 +35,7 @@
 </p>
 
 <p alig="rigth"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaymgmgmyint&show_icons=true&locale=en&layout=compact" alt="zaymgmgmyint" /></p>
+</div>
 
 <br/>
 
