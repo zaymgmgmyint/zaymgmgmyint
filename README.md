@@ -7,21 +7,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaymgmgmyint-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zaymaungmaungmyint-dev" /> </p>
 
-- 🔭 I’m currently working on **Health Care Information System**
+- 🔭 I’m currently working on **Access Control Management System**
 
-- 🌱 I’m currently learning **Angular, Linux**
+- 🌱 I’m currently learning **DevOps, IOS**
 
-- 👯 I’m looking to collaborate on **Global Project**
+- 👯 I’m looking to collaborate on **Backend Project**
 
 - 👨‍💻 All of my projects are available at [https://zaymgmgmyint.github.io/](https://zaymgmgmyint.github.io/)
 
-- 💬 Ask me about **Java, Spring, MySQL, OracelSQL, HTML, CSS, Javascript, JQuery**
+- 💬 Ask me about **Java, Spring Framework, Spring Boot, MySQL, HTML, CSS, Javascript, JQuery, Docker**
 
-- 📫 How to reach me **zaymaungmaungmyint.info@gmail.com**
+- 📫 How to reach me **zay.myint.mm@gmail.com**
 
 - 📄 Know about my experiences [https://zaymgmgmyint.github.io/](https://zaymgmgmyint.github.io/)
 
-- ⚡ Fun fact **Big Mouth, Man Of Action**
+- ⚡ Fun fact **Man Of Action**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
