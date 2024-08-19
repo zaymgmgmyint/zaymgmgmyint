@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7701251/alex-zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7701251/alex-zay" height="30" width="40" /></a>
 </p>
 
-<p alig="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaymgmgmyint&show_icons=true&locale=en&layout=compact" alt="zaymgmgmyint" /></p>
+<!--<p alig="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaymgmgmyint&show_icons=true&locale=en&layout=compact" alt="zaymgmgmyint" /></p> -->
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
