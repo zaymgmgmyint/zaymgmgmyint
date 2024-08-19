@@ -3,9 +3,7 @@
 
 ![<zaymgmgmyint>'s Stats](https://github-readme-stats.vercel.app/api?username=zaymgmgmyint&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p alig="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaymgmgmyint&show_icons=true&locale=en&layout=compact" alt="zaymgmgmyint" /></p>
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaymgmgmyint-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zaymaungmaungmyint-dev" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaymgmgmyint-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zaymaungmaungmyint-dev" /> </p>
 
 <br/>
 
@@ -34,6 +32,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zay-maung-maung-myint-b7849b197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zay-maung-maung-myint-b7849b197/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7701251/alex-zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7701251/alex-zay" height="30" width="40" /></a>
 </p>
+
+<p alig="rigth"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaymgmgmyint&show_icons=true&locale=en&layout=compact" alt="zaymgmgmyint" /></p>
 
 <br/>
 
