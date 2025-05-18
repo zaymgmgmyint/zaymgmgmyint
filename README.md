@@ -7,15 +7,15 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Access Control Management System**
+- 🔭 I’m currently working on **Access Control Management System**, **Instrument Systems**
 
-- 🌱 I’m currently learning **DevOps, IOS**
+- 🌱 I’m currently learning **DevOps, React JS**
 
 - 👯 I’m looking to collaborate on **Backend Project**
 
 - 👨‍💻 All of my projects are available at [https://zaymgmgmyint.github.io/](https://zaymgmgmyint.github.io/)
 
-- 💬 Ask me about **Java, Spring Framework, Spring Boot, MySQL, HTML, CSS, Javascript, JQuery, Docker**
+- 💬 Ask me about **Java, Spring Framework, Spring Boot, MySQL, HTML, CSS, Javascript, JQuery, React JS, Docker**
 
 - 📫 How to reach me **zay.myint.mm@gmail.com**
 
