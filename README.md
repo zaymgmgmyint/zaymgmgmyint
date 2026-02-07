@@ -10,16 +10,11 @@
 
 ---
 
-### 👋 About Me
+### Hey, I'm Zay 👋
 
 I am a **Senior Software Engineer** specializing in **Java and Spring-based backend systems**.  
 My focus is on building **reliable, scalable, and maintainable applications**, with an emphasis on clean architecture and long-term maintainability.
-
-- 📍 Based in **Bangkok, Thailand**
-- 🏗 Currently working on **Access Control Management Systems** and **Instrument Systems**
-- 🌱 Learning **DevOps practices** and **React integration**
-- 🤝 Open to collaboration on **backend-focused projects**
-
+### build, run, and manage, better software, faster. 🚀
 ---
 
 ### 🛠 Technical Skills
