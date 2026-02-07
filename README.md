@@ -27,7 +27,7 @@ My focus is on building **reliable, scalable, and maintainable applications**, w
 
 **Frontend & Integration**
 - JavaScript, TypeScript
-- React (working knowledge)
+- React
 - HTML, CSS
 
 **DevOps & Tooling**
