@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://zaymgmgmyint.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/zay-maung-maung-myint-b7849b197/">LinkedIn</a> ·
-  <a href="https://stackoverflow.com/users/7701251/alex-zay">Stack Overflow</a> ·
+  <a href="https://x.com/ZayMMMyint">X</a> ·
   <a href="mailto:zay.myint.mm@gmail.com">Email</a>
 </p>
 
