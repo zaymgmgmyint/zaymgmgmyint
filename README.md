@@ -1,4 +1,4 @@
-<h1 align="center">Zay Maung Maung Myint</h1>
+<h1 align="center">Zay Maung Maung Myint (Ethan) </h1>
 <h3 align="center">Senior Software Engineer · Java / Spring Ecosystem</h3>
 
 <p align="center">
